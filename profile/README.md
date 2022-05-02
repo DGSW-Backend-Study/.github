@@ -30,6 +30,7 @@
 
 ## 각오 한 마디 (Usage: `github-id: {message}`)
 - iqpizza6349: 끊임없이 도전하라.
+- whitebear05: Stay hungry, stay foolish!
 
 <!---
 🔥 각오 한 마디씩 작성해주세요.
