@@ -1,12 +1,37 @@
-## Hi there 👋
+## 👋 Hello, Backend!
+> DGSW Backend 스터디
 
-<!--
 
-**Here are some ideas to get you started:**
+## 📋 주제
+> BackEnd와 관련되고 서로 공유하거나 피드백을 받을 수 있는 주제만을 선택합니다.<br/>
+> 예) 기술 스택 공유
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 📕 규칙
+* 스터디를 진행하면서 알게된 점들은 리포지토리 규칙에 맞춰 작성합니다.
+* 주제 규칙을 지켜서 리포지토리에 작성해주세요.
+* 주제는 겹치지 않도록 합니다.
+* 간단한 PPT를 만들어 발표를 합니다.
+* 매주 월요일마다 심자1(21:20 ~ 22:00)에 스터디를 진행합니다.
+* 발표 시간은 한 분당 5분 ~ 10분 내외로 진행합니다.
+
+
+## 📚 리포지토리 규칙
+> 대소고를 재학 중이거나 졸업한 분들만 리포지토리를 작성할 수 있습니다. <br/>
+> md 이외에는 작성하여서는 안됩니다.
+* 리포지토리 명명 규칙은 github-id_TIL 입니다. <br/>
+예시) iqpizz6349_TIL, whitebear05_TIL
+* 다른 사람의 TIL 리포지토리를 수정하지 않습니다. 
+* 다른 사람이 잘못된 정보를 작성했을 경우, ISSUE를 통해 알려줍니다.
+* TIL를 꾸며도 상관없으나, 스터디와 관련된 내용만을 최대한 작성합니다.
+* 스터디를 진행하여 TIL를 작성해야한다면, (스터디 진행 날짜)디렉토리 안에 (주제).md로 작성합니다. <br/>
+예시) 2022년 5월 2일에 세션에 대한 스터디를 진행하였다면, 20220502/session.md
+
+
+## 각오 한 마디 (Usage: `github-id: {message}`)
+- iqpizza6349: 끊임없이 도전하라.
+
+<!---
+🔥 각오 한 마디씩 작성해주세요.
+🚀 github-id:: 커밋 메시지
+--->
